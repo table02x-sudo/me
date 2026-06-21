@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">Nur-A- Alom Reyad (Reyad Sarkar)</h1>
+  <h1 align="center">Reyad Sarkar</h1>
   <p align="center">
     <strong>Developer | AI Prompt Engineer | System Architect</strong>
     <br />
-    <i>Crafting intelligent systems and sleek digital experiences from Dalian, China.</i>
+    <i>Crafting intelligent systems and sleek digital experiences</i>
   </p>
 </div>
 
